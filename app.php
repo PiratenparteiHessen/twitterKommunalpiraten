@@ -14,5 +14,4 @@ foreach($decodeJson->results as $value) {
     }
 }
 
-    
-
+?>
